@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sudeshparate
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ASP.NET,Java
-- 💞️ I’m looking to collaborate on developing a dynamic website
+- 👀 I’m interested in Machine Learning | AI | RAG | Agentic AI
+- 🌱 I’m currently learning RAG and Agentic AI
+- 💞️ I’m looking for job opportunities in Agentic AI, Python AI Developer, Machine learning
 - 📫 How to reach me: sudeshparate@gmail.com
 
 <!---
